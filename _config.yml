@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Zagreus' Blog
+longtitle:        Zagreus' Blog
+author:           Li
+email:            wilezagreus@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Where I post my programing notes.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://zzzagreus.github.io/'
+baseurl:          '/zzZagreus.github.io'
 rss:              RSS
 
 toc:
